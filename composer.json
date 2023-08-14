@@ -20,7 +20,7 @@
   "require": {
     "ext-json": "*",
     "ext-zip": "*",
-    "php": "^7.4 || ^8.0",
+    "php": "^7.4 || ^8.0 || ^8.1",
     "aaemnnosttv/wp-sqlite-db": "^1.2",
     "guzzlehttp/guzzle": "^7.4",
     "pestphp/pest": "^2.0",
