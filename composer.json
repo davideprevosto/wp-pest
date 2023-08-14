@@ -1,5 +1,5 @@
 {
-  "name": "dingo-d/wp-pest",
+  "name": "davideprevosto/wp-pest",
   "description": "A package that will add WordPress integration test suite with Pest framework",
   "keywords": [
     "php",
